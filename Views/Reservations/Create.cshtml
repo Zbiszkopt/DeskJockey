@@ -1,0 +1,178 @@
+﻿@model IEnumerable<DeskJockey.Models.Reservation>
+
+@{
+    ViewData["Title"] = "Rezerwacja";
+}
+<center>
+    <h2>Mapa Biura</h2>
+    <h2>Zaznacz kolor biurka i zarezerwuj!  </h2>
+    <h3>Zielonego stołu nie rezerwujemy, obowiązuje kolejka ustalana na miejscu.</h3>
+
+    <div class="office-map-container">
+        <img src="~/images/office.png" alt="Office Map" class="office-map">
+        
+        <div class="desk" data-desk-id="1" style="top: 6%; left: 15.9%; background-color: lightcoral;"></div>
+        <div class="desk" data-desk-id="2" style="top: 12%; left: 19.2%; background-color: blue;"></div>
+        <div class="desk" data-desk-id="3" style="top: 6%; left: 35.3%; background-color: red;"></div>
+        <div class="desk" data-desk-id="4" style="top: 12%; left: 38.5%; background-color: yellow;"></div>
+        <div class="desk" data-desk-id="5" style="top: 42%; left: 3.8%; background-color: cadetblue;"></div>
+        <div class="desk" data-desk-id="6" style="top: 57%; left: 3.8%; background-color: lightblue;"></div>
+        <div class="desk" data-desk-id="7" style="top: 87%; left: 15.6%; background-color: brown;"></div>
+        <div class="desk" data-desk-id="8" style="top: 80.8%; left: 18.8%; background-color: purple;"></div>
+        <div class="desk" data-desk-id="9" style="top: 87%; left: 34.6%; background-color: magenta;"></div>
+        <div class="desk" data-desk-id="10" style="top: 80.8%; left: 37.8%; background-color: black;"></div>
+        
+    </div>
+</center>
+<div class="modal" id="reservationModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Rezerwacja biurka</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <!-- Formularz rezerwacji -->
+                <form id="reservationForm" asp-action="Create" method="post">
+                    @Html.AntiForgeryToken()
+
+                    <div class="mb-3">
+                        <label for="firstName" class="form-label">Imię</label>
+                        <input type="text" class="form-control" id="firstName" name="FirstName" required>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="lastName" class="form-label">Nazwisko</label>
+                        <input type="text" class="form-control" id="lastName" name="LastName" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="startDate" class="form-label">Data rozpoczęcia rezerwacji</label>
+                        <input type="datetime-local" class="form-control" id="startDate" name="StartDate" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="endDate" class="form-label">Data zakończenia rezerwacji</label>
+                        <input type="datetime-local" class="form-control" id="endDate" name="EndDate" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="status" class="form-label">Status</label>
+                        <input type="text" class="form-control" id="status" name="Status" value="Aktywny" required>
+                    </div>
+                    <!-- Ukryte pole DeskId -->
+                    <input type="hidden" id="deskId" name="DeskId" />
+                    <button type="submit" class="btn btn-primary">Zarezerwuj</button>
+
+                    <div id="errorMessages" class="alert alert-danger mt-3 d-none"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var reservationModal = new bootstrap.Modal(document.getElementById('reservationModal'));
+        var form = document.getElementById('reservationForm');
+
+        var popovers = {}; // Obiekt do przechowywania wszystkich dymków
+
+        document.querySelectorAll('.desk').forEach(function (desk) {
+            desk.addEventListener('click', function () {
+                var deskId = this.getAttribute('data-desk-id');
+                document.getElementById('deskId').value = deskId;
+                reservationModal.show();
+            });
+
+            desk.addEventListener('mouseenter', async function () {
+                var deskId = this.getAttribute('data-desk-id');
+                var content = await getReservationsContent(deskId);
+                if (content.trim() !== '') {
+                    // Sprawdź, czy dymek już istnieje
+                    if (!popovers.hasOwnProperty(deskId)) {
+                        // Jeśli nie, to utwórz nowy dymek
+                        popovers[deskId] = new bootstrap.Popover(this, {
+                            container: 'body',
+                            html: true,
+                            content: content,
+                            trigger: 'manual' // Ustawienie trybu ręcznego wywoływania dymka
+                        });
+                    }
+                    // Wyświetl dymek
+                    popovers[deskId].show();
+                }
+            });
+
+            desk.addEventListener('mouseleave', function () {
+                var deskId = this.getAttribute('data-desk-id');
+                // Sprawdź, czy dymek istnieje
+                if (popovers.hasOwnProperty(deskId)) {
+                    // Jeśli tak, ukryj dymek
+                    popovers[deskId].hide();
+                }
+            });
+        });
+
+        // Funkcja do pobierania zawartości rezerwacji
+        async function getReservationsContent(deskId) {
+            return fetch('/Reservations/GetReservationsForDesk?deskId=' + deskId)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let content = '';
+                    if (data.reservations.length > 0) {
+                        content = '<div><strong>Istniejące rezerwacje:</strong></div><ul>';
+                        data.reservations.forEach(function (reservation) {
+                            content += '<li>' + formatDateTime(reservation.startDate) + ' - ' + formatDateTime(reservation.endDate) + ' (' + reservation.firstName + ' ' + reservation.lastName + ')</li>';
+                        });
+                        content += '</ul>';
+                    } else {
+                        content = '<div>Brak rezerwacji</div>';
+                    }
+                    return content;
+                })
+                .catch(error => {
+                    console.error('Błąd podczas pobierania rezerwacji:', error);
+                    return '<div>Wystąpił błąd podczas pobierania rezerwacji.</div>';
+                });
+        }
+
+        // Funkcja do formatowania daty i godziny
+        function formatDateTime(dateTime) {
+            var formattedDateTime = new Date(dateTime);
+            var datePart = formattedDateTime.toLocaleDateString();
+            var timePart = formattedDateTime.toLocaleTimeString();
+            return datePart + ' ' + timePart;
+        }
+
+        form.addEventListener('submit', function (event) {
+            event.preventDefault();
+            var formData = new FormData(form);
+
+            fetch(form.action, {
+                method: 'POST',
+                body: formData,
+                headers: {
+                    'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                }
+            }).then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        reservationModal.hide();
+                        window.location.reload();
+                    } else {
+                        document.getElementById('errorMessages').classList.remove('d-none');
+                        document.getElementById('errorMessages').textContent = 'No i za późno! Biurko jest już zarezerwowane w wybranym czasie!';
+                        console.error('Błąd:', data.errors);
+                    }
+                }).catch(error => {
+                    console.error('Błąd:', error);
+                    document.getElementById('errorMessages').classList.remove('d-none');
+                    document.getElementById('errorMessages').textContent = 'Wystąpił błąd podczas zapisywania rezerwacji.';
+                });
+        });
+    });
+</script>

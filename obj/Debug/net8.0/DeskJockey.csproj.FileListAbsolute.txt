@@ -1,0 +1,1085 @@
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\DeskJockey.csproj.AssemblyReference.cache
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\DeskJockey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\DeskJockey.AssemblyInfoInputs.cache
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\DeskJockey.AssemblyInfo.cs
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\DeskJockey.csproj.CoreCompileInputs.cache
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\DeskJockey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\DeskJockey.RazorAssemblyInfo.cache
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\DeskJockey.RazorAssemblyInfo.cs
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\appsettings.json
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\DeskJockey.staticwebassets.runtime.json
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\DeskJockey.exe
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\DeskJockey.deps.json
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\DeskJockey.runtimeconfig.json
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\DeskJockey.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\DeskJockey.pdb
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Humanizer.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.DeskJockey.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.build.DeskJockey.props
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DeskJockey.props
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DeskJockey.props
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\scopedcss\bundle\DeskJockey.styles.css
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\scopedcss\projectbundle\DeskJockey.bundle.scp.css
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\DeskJockey.csproj.Up2Date
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\DeskJockey.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\refint\DeskJockey.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\DeskJockey.pdb
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\DeskJockey.genruntimeconfig.cache
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\obj\Debug\net8.0\ref\DeskJockey.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\package-lock.json
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\package.json
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Ben.Demystifier.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\DotVVM.Framework.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\DotVVM.Framework.Hosting.AspNetCore.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\DotVVM.Core.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\DotVVM.HotReload.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\DotVVM.HotReload.AspNetCore.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\szcze\source\repos\Zaliczenie Azure\DeskJockey\bin\Debug\net8.0\RecordException.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\refint\DeskJockey.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.pdb
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\appsettings.Development.json
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\appsettings.json
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\package-lock.json
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\package.json
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.staticwebassets.runtime.json
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.exe
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.deps.json
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.runtimeconfig.json
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.pdb
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Azure.Core.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Azure.Identity.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Ben.Demystifier.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.Framework.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.Framework.Hosting.AspNetCore.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.Core.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.HotReload.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.HotReload.AspNetCore.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\FastExpressionCompiler.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Humanizer.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Build.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Mono.TextTemplating.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Newtonsoft.Json.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Common.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Configuration.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Frameworks.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.LibraryModel.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Packaging.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.ProjectModel.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Protocol.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Versioning.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\RecordException.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.CodeDom.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.Convention.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.Hosting.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.Runtime.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.TypedParts.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Drawing.Common.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Memory.Data.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Runtime.Caching.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Security.Permissions.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\System.Windows.Extensions.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\af\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ar\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\az\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\bg\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\cs\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\da\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\de\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\el\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\es\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\fa\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\fr\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\he\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\hr\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\hu\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\hy\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\id\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\is\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\it\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ja\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ku\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\lv\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\mt\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\nb\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\nl\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pl\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pt\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ro\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ru\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\sk\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\sl\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\sr\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\sv\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\tr\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\uk\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\vi\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.csproj.AssemblyReference.cache
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.GeneratedMSBuildEditorConfig.editorconfig
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.AssemblyInfoInputs.cache
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.AssemblyInfo.cs
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.csproj.CoreCompileInputs.cache
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.MvcApplicationPartsAssemblyInfo.cache
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.RazorAssemblyInfo.cache
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.RazorAssemblyInfo.cs
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets.build.json
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets.development.json
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.DeskJockey.Microsoft.AspNetCore.StaticWebAssets.props
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.build.DeskJockey.props
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DeskJockey.props
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DeskJockey.props
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets.pack.json
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\scopedcss\bundle\DeskJockey.styles.css
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\scopedcss\projectbundle\DeskJockey.bundle.scp.css
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.csproj.Up2Date
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.genruntimeconfig.cache
+\\bello\Home\Home\zszczech\Desktop\Zalka\DeskJockey\obj\Debug\net8.0\ref\DeskJockey.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\appsettings.json
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\package-lock.json
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\package.json
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.staticwebassets.runtime.json
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.exe
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.deps.json
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.runtimeconfig.json
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.pdb
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Ben.Demystifier.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.Framework.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.Framework.Hosting.AspNetCore.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.Core.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.HotReload.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.HotReload.AspNetCore.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Humanizer.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\RecordException.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.csproj.AssemblyReference.cache
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.AssemblyInfoInputs.cache
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.AssemblyInfo.cs
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.csproj.CoreCompileInputs.cache
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.RazorAssemblyInfo.cache
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.RazorAssemblyInfo.cs
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.DeskJockey.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.build.DeskJockey.props
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DeskJockey.props
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DeskJockey.props
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\scopedcss\bundle\DeskJockey.styles.css
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\scopedcss\projectbundle\DeskJockey.bundle.scp.css
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.csproj.Up2Date
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\refint\DeskJockey.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.pdb
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.genruntimeconfig.cache
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\obj\Debug\net8.0\ref\DeskJockey.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\szcze\OneDrive\Pulpit\Zalka\DeskJockey\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\appsettings.json
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\cypress\fixtures\example.json
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\package-lock.json
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\package.json
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.staticwebassets.runtime.json
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.exe
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.deps.json
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.runtimeconfig.json
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\DeskJockey.pdb
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Ben.Demystifier.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.Framework.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.Framework.Hosting.AspNetCore.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.Core.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.HotReload.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\DotVVM.HotReload.AspNetCore.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\FastExpressionCompiler.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Humanizer.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\RecordException.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.csproj.AssemblyReference.cache
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.AssemblyInfoInputs.cache
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.AssemblyInfo.cs
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.csproj.CoreCompileInputs.cache
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.RazorAssemblyInfo.cache
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.RazorAssemblyInfo.cs
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.DeskJockey.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.build.DeskJockey.props
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DeskJockey.props
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DeskJockey.props
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\scopedcss\bundle\DeskJockey.styles.css
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\scopedcss\projectbundle\DeskJockey.bundle.scp.css
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.csproj.Up2Date
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\refint\DeskJockey.dll
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.pdb
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\DeskJockey.genruntimeconfig.cache
+C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\obj\Debug\net8.0\ref\DeskJockey.dll

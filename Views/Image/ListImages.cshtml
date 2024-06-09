@@ -1,0 +1,12 @@
+﻿@model List<string>
+
+@{
+    ViewData["Title"] = "Lista Zdjęć";
+}
+
+<h2>Wasze hity z biura</h2>
+
+@foreach (var imageUrl in Model)
+{
+    <img src="@imageUrl" alt="Image" style="width: 200px; margin: 10px;" />
+}   

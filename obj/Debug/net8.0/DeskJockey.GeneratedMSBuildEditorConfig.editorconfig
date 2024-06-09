@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DeskJockey
+build_property.RootNamespace = DeskJockey
+build_property.ProjectDir = C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\szcze\OneDrive\Pulpit\STUDIA\Zalka\DeskJockey
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Desks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVza3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Desks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVza3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Desks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVza3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Desks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVza3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Desks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVza3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Image/ListImages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcTGlzdEltYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Image/UploadImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcVXBsb2FkSW1hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Reservations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Reservations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Reservations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Reservations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Reservations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szcze/OneDrive/Pulpit/STUDIA/Zalka/DeskJockey/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qa04llmmsf

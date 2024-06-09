@@ -1,0 +1,19 @@
+﻿@model string
+
+@{
+    ViewData["Title"] = "Pochwały i zażalenia";
+}
+
+<form asp-action="UploadImage" method="post" enctype="multipart/form-data">
+    <input type="hidden" name="deskId" value="@Model" />
+    <div class="form-group">
+        <h3>
+            W tym miejscu możesz pochwalić kogoś, albo na kogoś uprzejmie donieść w związku z rezerwacją.
+            Wrzuć zdjęcie z podpisem przedstawiające biurko i swoje uwagi.
+        </h3>
+        <input type="file" class="form-control" name="file" />
+    </div>
+    <button type="submit" class="btn btn-primary">Prześlij</button>
+</form>
+
+<a asp-controller="Image" asp-action="ListImages">Hity z naszego biura</a>
